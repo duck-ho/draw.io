@@ -67,8 +67,41 @@
         <mxCell id="8BjTEOA2ny8shlbgz9hC-31" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-25">
           <mxGeometry x="50" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8BjTEOA2ny8shlbgz9hC-32" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Request Pool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="380" y="110" width="460" height="120" as="geometry" />
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-32" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Request Pool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=top;fontFamily=Permanent Marker;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Request&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Manager&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-35" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Request Q&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-34">
+          <mxGeometry x="-15" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-36" value="" style="group" vertex="1" connectable="0" parent="8BjTEOA2ny8shlbgz9hC-34">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-37" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-38" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry x="10" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-39" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry x="20" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-40" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry x="30" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-41" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry x="40" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-42" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="8BjTEOA2ny8shlbgz9hC-36">
+          <mxGeometry x="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BjTEOA2ny8shlbgz9hC-43" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Request&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Manager&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;sketchStyle=comic;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Permanent Marker;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
